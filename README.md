@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 💞️ Looking to collaborate on freelance opportunities and full-time work.
 
-📫 How to reach me +91 909858xxxx, virendrarajput@gmail.com
+📫 How to reach me +91 909858xxxx, virendrarajput041@gmail.com
 
 😄 Pronouns: He/Him
 
