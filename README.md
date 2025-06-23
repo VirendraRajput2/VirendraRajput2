@@ -10,3 +10,13 @@ Here are some ideas to get you started:
 
 🌱 I’m skilled in Power BI, MySQL, Advanced Excel, Google Sheets, and Python.
 
+💞️ Looking to collaborate on freelance opportunities and full-time work.
+
+📫 How to reach me +91 909858xxxx, virendrarajput@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: We can connect on LinkedIn - @Virendrarajput2
+
+
+
