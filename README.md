@@ -5,5 +5,4 @@
 Here are some ideas to get you started:
 
 👋 Hi, I’m Virendra Rajput
-
 👀 Skilled and curious data enthusiast, converting raw data into actionable insights with storytelling methods.
