@@ -35,23 +35,29 @@ Results-driven **Data Analyst** with proven expertise in turning raw data into c
 
 ## 🔧 Technical Projects
 
-### 📌 Credit Risk Analysis & Dashboarding  
-**Tools:** SQL, Power BI  
+### 📌 Credit Risk Analysis and Default Prediction  
+**Tools:** SQL, Power BI ,DAX ,Python, Banking,KPI,Reporting 
 - Developed dashboards to assess credit risk across borrower segments  
 - Optimized SQL queries to reduce monthly report time by 25%  
 - Improved risk decisions by 15%
 
 ### 📌 Electric Vehicle Sales Market Analysis  
-**Tools:** Power BI, DAX  
+**Tools:** Excel, SQL, Python, Power BI,Dax, Banking, Data Analysis
 - Analyzed 325% YoY growth in EV market  
 - Projected sales to reach 5.24M by 2030  
 - State-wise penetration visualized with bookmarks and advanced filters
 
 ### 📌 Netflix Content Analytics  
-**Tools:** SQL, Excel  
+**Tools:** Excel, Python, SQL, Power Query, Power BI,KPI reporting 
 - Analyzed 40K+ records, uncovering genre trends and audience behavior  
 - Used CTEs, ranking, and subqueries to uncover hidden patterns  
 - Automated reports to boost analytics efficiency by 209%
+
+### 📌 Avanse Financial Services Ltd  
+**Tools:** Excel, Python, SQL, Power Query, Power BI, DAX,ETL/data pipelines  
+- Developed scalable ERP features like HR, CRM, Inventory, and Billing  
+- Enabled 30% faster operations through automation & clean modeling  
+- Transformed messy data into accurate ERP workflows
 
 ### 📌 ERP Inventory & Billing Module  
 **Tools:** Django, SQL, REST API  
@@ -68,7 +74,7 @@ Results-driven **Data Analyst** with proven expertise in turning raw data into c
 - Automated reporting workflows to cut manual effort by 40%  
 - Implemented forecasting models using Python & Excel  
 
-### 🔹 Kellton Tech Solutions — *Junior Data Analyst* (Feb 2022 – Sep 2023)  
+### 🔹 Kellton Tech Solutions — * Data Analyst* (Feb 2022 – Sep 2023)  
 - Streamlined Linux-based ETL processes  
 - Delivered CI/CD-based analytics tools to reduce report turnaround  
 - Conducted deep EDA for business-critical optimizations
