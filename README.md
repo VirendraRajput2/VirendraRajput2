@@ -63,7 +63,7 @@ Results-driven **Data Analyst** with proven expertise in turning raw data into c
 
 ## 💼 Work Experience
 
-### 🔹 Lyceum Infotech Pvt. Ltd. — *Data Analyst* (Oct 2023 – Present)  
+### 🔹 Lyceum Infotech Pvt. Ltd. — *Data Analyst* (Sept 2023 – Present)  
 - Built 10+ live dashboards for category-wise product tracking  
 - Automated reporting workflows to cut manual effort by 40%  
 - Implemented forecasting models using Python & Excel  
@@ -73,18 +73,19 @@ Results-driven **Data Analyst** with proven expertise in turning raw data into c
 - Delivered CI/CD-based analytics tools to reduce report turnaround  
 - Conducted deep EDA for business-critical optimizations
 
-### 🔹 Indictrans Technologies — *ERP Data Analyst* (Jan 2021 – Feb 2022)  
-- Built ERP data models for manufacturing workflows  
+ ### 🔹 E-Mech Solutions Pvt Ltd — *IT & Data Analyst* (July 2018 – Feb 2022)  
+- Solved data integrity issues using SQL & Python
+- Designed and implemented data-driven ERP modules using ERPNext for manufacturing clients, improving operational efficiency by 30% through automation and actionable insights.
+- Extracted, cleaned, and transformed datasets using SQL, Python, and Excel (Power Query), increasing reporting accuracy and reducing manual analysis time by 25–30%.
+- Worked directly with clients on live KPI reporting requirements
+- Built ERP data models for manufacturing workflows
 - Automated reports for real-time decision dashboards  
-
-### 🔹 Appmentro Technologies — *IT & Data Analyst* (Jan 2019 – Dec 2020)  
-- Solved data integrity issues using SQL & Python  
-- Worked directly with clients on live KPI reporting requirements  
 
 ---
 
 ## 📜 Certifications & Internships
 
+- ✅ **Google (2025) – Data Analytics: Data, Data, Everywhere**
 - ✅ **Microsoft Certified: Power BI Data Analyst Associate**  
 - ✅ **Google Analytics + Tableau – Great Learning**  
 - ✅ **AWS Partner Accreditation – Cloud Economics & Technical**  
