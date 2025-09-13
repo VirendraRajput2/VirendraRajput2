@@ -74,7 +74,7 @@ Results-driven **Data Analyst** with proven expertise in turning raw data into c
 - Automated reporting workflows to cut manual effort by 40%  
 - Implemented forecasting models using Python & Excel  
 
-### 🔹 Kellton Tech Solutions — * Data Analyst* (Feb 2022 – Sep 2023)  
+### 🔹 Kellton Tech Solutions — *Data Analyst* (Feb 2022 – Sep 2023)  
 - Streamlined Linux-based ETL processes  
 - Delivered CI/CD-based analytics tools to reduce report turnaround  
 - Conducted deep EDA for business-critical optimizations
